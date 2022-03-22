@@ -1,0 +1,5 @@
+$ git add .
+
+$ git commmit -m "+w add_1"
+
+$ git push -u origin main
